@@ -12,7 +12,7 @@ base:
     - postgres
     - node
     - nginx
-    - prosody
+    - tigase-server
     - buddycloud-server-java
     - buddycloud-media-server
     - buddycloud-http-api
